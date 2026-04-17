@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Привет! Я Екатерина Микоши
 
-<!--
-**KateMikoshi/KateMikoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 QA Engineer (Junior)  
+📍 Санкт-Петербург  
+📧 [kateluzanina@gmail.com](mailto:kateluzanina@gmail.com)   
+💻 Готова к удалённой / гибридной работе
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+QA-инженер с практическим опытом тестирования веб- и мобильных приложений.
+Фокусируюсь на выявлении критичных дефектов в пользовательских сценариях и повышении качества продукта на этапе разработки.
+
+В тестирование пришла осознанно: интерес к IT начался с анализа работы сайтов и приложений, поиска багов и понимания логики их работы. Выбрала QA как направление, где могу применять аналитическое мышление, системный подход и внимание к деталям для реального улучшения продукта.
+
+## 🛠️ Стек и инструменты
+
+### Тестирование:
+```text
+Ручное тестирование | Функциональное тестирование
+Регрессионное тестирование | Тест-дизайн
+```
+### Инструменты:  
+```text
+Postman | Charles Proxy | Swagger | pgAdmin | Git
+```
+### Технологии:
+```text
+HTTP/HTTPS | JSON | Клиент-серверная архитектура | API тестирование
+```
+### Дополнительно:
+```text
+Python | Pytest | Android Studio | Microsoft Visual Studio|
+```
+
+## 🎓 Образование
+Инженер по тестированию (2026)  
+АНО ДПО «Образовательные технологии Яндекса»
